@@ -1,4 +1,4 @@
-Projeto Base React
+challenge waproject web
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.

@@ -1,0 +1,11 @@
+{
+  "project": "challenge waproject web",
+  "repository": "https://github.com/elianbecali/challenge-waproject-web.git",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/challenge-waproject-web",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "challenge-waproject-web"
+}
